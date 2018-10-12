@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+User-agent: Googlebot-Image
+Disallow: /images/avatars/jose.jpg
+Disallow: /images/avatars/jose.png
+
+Sitemap: https://azagra.me/sitemap.xml
