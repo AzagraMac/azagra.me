@@ -2,6 +2,6 @@
 
 # Personal web
 
-Link: [azagra.me](https://azagra.me)
-Certificate Let’s Encrypt: [ZeroSSL](https://zerossl.com/)
+* Link: [azagra.me](https://azagra.me)
+* Certificate Let’s Encrypt: [ZeroSSL](https://zerossl.com/)
 
