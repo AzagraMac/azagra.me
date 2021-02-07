@@ -2,6 +2,6 @@
 
 # Personal web
 
-* Link: [azagra.me](https://azagra.me)
+* Link: [azagramac.github.io](https://azagramac.github.io/)
 * Certificate Let’s Encrypt: [ZeroSSL](https://zerossl.com/)
 
